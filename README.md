@@ -4,7 +4,7 @@
 ![Screenshot](images/org_id.png)
 
 ### Step 6
-![Screenshot](images/target_platform.png)/n
+![Screenshot](images/target_platform.png)
 
 The app is configured to run smoothly on android 10. The oldest supported version is android 4.0(see screenshot from step 5 for minimal sdk requirement.
 
